@@ -22,7 +22,7 @@ pip install pyttsx3
 ```python
 pip install pyaudio
 ```
-*speech recongnition*
+*speechRecongnition*
 ```python
 pip install speech recongnition
 ```
