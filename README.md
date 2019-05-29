@@ -4,11 +4,37 @@
 
 
 Prerequsites:
--Python3.6 
-pyaudio 
-pyttsx3 
-speech recongnition wikipedia 
-smtplib 
-webbrowser 
 
 
+
+
+
+*python3.6.2*
+
+https://www.python.org/downloads/release/python-362/
+
+*pyttsx3*
+```python
+
+pip install pyttsx3
+```
+*pyaudio*
+```python
+pip install pyaudio
+```
+*speech recongnition*
+```python
+pip install speech recongnition
+```
+*wikipedia*
+```python
+pip install wikipedia
+```
+*smtplib*
+```python
+pip install smtplib
+```
+*webbrowser*
+```python
+pip install webbrowser
+```
