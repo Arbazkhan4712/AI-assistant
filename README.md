@@ -5,6 +5,7 @@
 
 Prerequsites:
 -Python3.6 
+pyaudio 
 pyttsx3 
 speech recongnition wikipedia 
 smtplib 
