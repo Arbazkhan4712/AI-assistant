@@ -33,11 +33,3 @@ pip install speech recongnition
 ```python
 pip install wikipedia
 ```
-*smtplib*
-```python
-pip install smtplib
-```
-*webbrowser*
-```python
-pip install webbrowser
-```
